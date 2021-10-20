@@ -1,0 +1,33 @@
+.logohistory {
+    width: 140px;
+    height: 90px;
+    padding-left: 20%;
+}
+
+.navbar {
+    background-color: #000000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .05);
+    min-height: 100px;
+    font-size: 1.1rem;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color:rgb(29, 29, 236);
+}
+
+.iconodetails {
+    width: 75px;
+    margin: auto;
+    text-align: center;
+
+}
+
+.nav-user {
+    padding-top: 8px;
+    color: #f1e2e2;
+}
+
